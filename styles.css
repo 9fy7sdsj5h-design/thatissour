@@ -73,7 +73,6 @@ button:hover {
 }
 
 .logo img {
-    width: 180px;
-    height: auto;
-    margin-bottom: 10px;
+    width: 280px;
+    max-width: 90%;
 }
