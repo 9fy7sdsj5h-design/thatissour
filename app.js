@@ -12,9 +12,12 @@ function nextEvent() {
     const item =
         events[Math.floor(Math.random() * events.length)];
 
-    document.getElementById("eventText").innerText =
-        item.event;
+document.getElementById("category").innerText =
+    item.category;
 
-    document.getElementById("sourbertText").innerText =
-        "🍋 Sourbert says: \"" + item.sourbert + "\"";
+document.getElementById("eventText").innerText =
+    item.event;
+
+document.getElementById("sourbertText").innerText =
+    "🍋 Sourbert says: \"" + item.sourbert + "\"";
 }
