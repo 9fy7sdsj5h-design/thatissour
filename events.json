@@ -328,5 +328,125 @@
   "category": "Pets",
   "event": "Your pet ignores the expensive toy and plays with the box.",
   "sourbert": "Value is subjective."
+},
+  {
+  "id": 56,
+  "category": "Technology",
+  "event": "You close a browser tab and immediately need it again.",
+  "sourbert": "Gone but not forgotten."
+},
+{
+  "id": 57,
+  "category": "Technology",
+  "event": "You finally find the setting you're looking for. It has been renamed.",
+  "sourbert": "Progress has side effects."
+},
+{
+  "id": 58,
+  "category": "Technology",
+  "event": "A website asks if you're still watching. You're offended by the accuracy.",
+  "sourbert": "The machine sees much."
+},
+{
+  "id": 59,
+  "category": "Technology",
+  "event": "You clear a notification. It was the important one.",
+  "sourbert": "Selective efficiency."
+},
+{
+  "id": 60,
+  "category": "Social",
+  "event": "You wave at someone. They were waving at the person behind you.",
+  "sourbert": "A false positive."
+},
+{
+  "id": 61,
+  "category": "Social",
+  "event": "You tell someone to enjoy their flight. They are picking up a rental car.",
+  "sourbert": "Close enough was not enough."
+},
+{
+  "id": 62,
+  "category": "Social",
+  "event": "You forget someone's name five seconds after they introduce themselves.",
+  "sourbert": "Information was briefly available."
+},
+{
+  "id": 63,
+  "category": "Social",
+  "event": "You rehearse a conversation in your head. The real one lasts ten seconds.",
+  "sourbert": "Unused preparation."
+},
+{
+  "id": 64,
+  "category": "Work",
+  "event": "You create a detailed plan. The project changes tomorrow.",
+  "sourbert": "A beautiful document."
+},
+{
+  "id": 65,
+  "category": "Work",
+  "event": "You attend a meeting to learn what the next meeting is about.",
+  "sourbert": "A prequel."
+},
+{
+  "id": 66,
+  "category": "Work",
+  "event": "You finish early and immediately receive another assignment.",
+  "sourbert": "Efficiency is rewarded."
+},
+{
+  "id": 67,
+  "category": "Work",
+  "event": "You spend twenty minutes searching for a file. It is on your desktop.",
+  "sourbert": "A bold hiding place."
+},
+{
+  "id": 68,
+  "category": "Food",
+  "event": "You open a bag of chips from the wrong end.",
+  "sourbert": "The long way around."
+},
+{
+  "id": 69,
+  "category": "Food",
+  "event": "You wait all day for leftovers. Someone else ate them.",
+  "sourbert": "A tragic misunderstanding."
+},
+{
+  "id": 70,
+  "category": "Travel",
+  "event": "You choose a seat with a great view. The shade stays down the whole flight.",
+  "sourbert": "Potential was present."
+},
+{
+  "id": 71,
+  "category": "Travel",
+  "event": "You memorize your hotel room number and immediately forget it in the hallway.",
+  "sourbert": "Temporary information."
+},
+{
+  "id": 72,
+  "category": "Shopping",
+  "event": "The cashier asks if you found everything. You forgot why you came.",
+  "sourbert": "The mission evolved."
+},
+{
+  "id": 73,
+  "category": "Weather",
+  "event": "The weather is perfect while you're stuck inside and terrible when you're free.",
+  "sourbert": "An ongoing arrangement."
+},
+{
+  "id": 74,
+  "category": "Pets",
+  "event": "Your pet demands attention and then walks away when attention is provided.",
+  "sourbert": "Requirements were met."
+},
+{
+  "id": 75,
+  "category": "Everyday",
+  "event": "You finally get comfortable in bed and remember something downstairs.",
+  "sourbert": "A summons has arrived."
 }
 ]
