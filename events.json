@@ -448,5 +448,155 @@
   "category": "Everyday",
   "event": "You finally get comfortable in bed and remember something downstairs.",
   "sourbert": "A summons has arrived."
+},
+  {
+  "id": 76,
+  "category": "Everyday",
+  "event": "You walk into the kitchen and forget why you went there.",
+  "sourbert": "The mission was classified."
+},
+{
+  "id": 77,
+  "category": "Everyday",
+  "event": "You check your pockets three times before leaving and still forget something.",
+  "sourbert": "A confidence issue."
+},
+{
+  "id": 78,
+  "category": "Everyday",
+  "event": "You finally untangle a knot. It wasn't the right cable.",
+  "sourbert": "Useful, but unrelated."
+},
+{
+  "id": 79,
+  "category": "Everyday",
+  "event": "You open the fridge, stare into it, and close it without taking anything.",
+  "sourbert": "An unsuccessful expedition."
+},
+{
+  "id": 80,
+  "category": "Everyday",
+  "event": "You sit down and immediately remember three things you forgot to do.",
+  "sourbert": "The chair knows."
+},
+{
+  "id": 81,
+  "category": "Technology",
+  "event": "You spend ten minutes troubleshooting before realizing the device isn't plugged in.",
+  "sourbert": "Powerful oversight."
+},
+{
+  "id": 82,
+  "category": "Technology",
+  "event": "You successfully connect to Wi-Fi. The internet still doesn't work.",
+  "sourbert": "A technicality."
+},
+{
+  "id": 83,
+  "category": "Technology",
+  "event": "Your battery lasts all day until the day you really need it.",
+  "sourbert": "A strategic withdrawal."
+},
+{
+  "id": 84,
+  "category": "Technology",
+  "event": "You open a support article and it suggests doing the thing you already tried.",
+  "sourbert": "Groundbreaking advice."
+},
+{
+  "id": 85,
+  "category": "Technology",
+  "event": "You finally decide to update. The update requires a restart right now.",
+  "sourbert": "An eager opportunity."
+},
+{
+  "id": 86,
+  "category": "Work",
+  "event": "You write detailed notes and then can't read your own abbreviation.",
+  "sourbert": "A message from the past."
+},
+{
+  "id": 87,
+  "category": "Work",
+  "event": "You join the meeting exactly on time. Everyone has already started.",
+  "sourbert": "Time is apparently flexible."
+},
+{
+  "id": 88,
+  "category": "Work",
+  "event": "You spend an hour preparing a report nobody asks for.",
+  "sourbert": "Thoroughness happened."
+},
+{
+  "id": 89,
+  "category": "Work",
+  "event": "You finish your inbox. New emails arrive immediately.",
+  "sourbert": "A renewable resource."
+},
+{
+  "id": 90,
+  "category": "Work",
+  "event": "You volunteer once and become the expert forever.",
+  "sourbert": "A life sentence."
+},
+{
+  "id": 91,
+  "category": "Food",
+  "event": "You burn your mouth because you were too excited for the first bite.",
+  "sourbert": "Enthusiasm has costs."
+},
+{
+  "id": 92,
+  "category": "Food",
+  "event": "You carefully make a sandwich and immediately drop something on it.",
+  "sourbert": "An unscheduled topping."
+},
+{
+  "id": 93,
+  "category": "Food",
+  "event": "You open the cereal box from the wrong side.",
+  "sourbert": "A permanent decision."
+},
+{
+  "id": 94,
+  "category": "Travel",
+  "event": "You arrive at the wrong parking level and none of the cars look familiar.",
+  "sourbert": "A scavenger hunt begins."
+},
+{
+  "id": 95,
+  "category": "Travel",
+  "event": "You carefully plan your route and still hit every red light.",
+  "sourbert": "Remarkable consistency."
+},
+{
+  "id": 96,
+  "category": "Shopping",
+  "event": "You enter a store for one item and leave with five unrelated items.",
+  "sourbert": "Mission drift."
+},
+{
+  "id": 97,
+  "category": "Shopping",
+  "event": "The self-checkout requests assistance for the third time.",
+  "sourbert": "It misses human interaction."
+},
+{
+  "id": 98,
+  "category": "Weather",
+  "event": "The weather changes dramatically between the parking lot and the building entrance.",
+  "sourbert": "A local phenomenon."
+},
+{
+  "id": 99,
+  "category": "Pets",
+  "event": "Your pet chooses your keyboard as the perfect place to sit.",
+  "sourbert": "A supportive coworker."
+},
+{
+  "id": 100,
+  "category": "Social",
+  "event": "You spend ten minutes looking for your friend in a crowd while talking to them on the phone.",
+  "sourbert": "Communication was established."
 }
 ]
