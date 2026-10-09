@@ -1,24 +1,154 @@
 [
-  {
-    "event": "You spend ten minutes looking for your glasses. They're on your head.",
-    "sourbert": "An elite hiding place."
-  },
-  {
-    "event": "You wave at someone. They weren't waving at you.",
-    "sourbert": "Confidence exceeded available data."
-  },
-  {
-    "event": "You finally sit down. Then remember something in the car.",
-    "sourbert": "Exercise found a loophole."
-  },
-  {
-    "event": "You unlock your phone to do something important and instantly forget what it was.",
-    "sourbert": "Memory sold separately."
-  },
-  {
-    "event": "You hit Send and immediately find the typo.",
-    "sourbert": "A classic sour vintage."
-  },
+{
+  "category": "Technology",
+  "event": "You restart your computer. The problem disappears without explanation.",
+  "sourbert": "A negotiated settlement."
+},
+{
+  "category": "Technology",
+  "event": "Autocorrect changes the one word you actually spelled correctly.",
+  "sourbert": "Innovation continues."
+},
+{
+  "category": "Technology",
+  "event": "You finally remember your password. The site makes you change it.",
+  "sourbert": "Knowledge expires."
+},
+{
+  "category": "Technology",
+  "event": "You click 'Remind Me Tomorrow' for three weeks.",
+  "sourbert": "Tomorrow remains undefeated."
+},
+{
+  "category": "Social",
+  "event": "You hold the door open. The person is much farther away than you thought.",
+  "sourbert": "A commitment was made."
+},
+{
+  "category": "Social",
+  "event": "You laugh at a joke before realizing it wasn't a joke.",
+  "sourbert": "Premature enthusiasm."
+},
+{
+  "category": "Social",
+  "event": "You spend five minutes saying goodbye and then leave in the same direction.",
+  "sourbert": "The extended edition."
+},
+{
+  "category": "Social",
+  "event": "You introduce two people. They already know each other.",
+  "sourbert": "Networking complete."
+},
+{
+  "category": "Work",
+  "event": "You prepare for every question except the one they ask.",
+  "sourbert": "Target missed successfully."
+},
+{
+  "category": "Work",
+  "event": "You fix an issue nobody reported. A different issue immediately appears.",
+  "sourbert": "Nature seeks balance."
+},
+{
+  "category": "Work",
+  "event": "You answer an email. It generates four more emails.",
+  "sourbert": "Compound interest."
+},
+{
+  "category": "Work",
+  "event": "Friday's emergency becomes Monday's forgotten topic.",
+  "sourbert": "A miraculous recovery."
+},
+{
+  "category": "Weather",
+  "event": "You check the forecast. The weather chooses a surprise option.",
+  "sourbert": "Creative interpretation."
+},
+{
+  "category": "Weather",
+  "event": "You wash your car. It rains that afternoon.",
+  "sourbert": "A traditional offering."
+},
+{
+  "category": "Shopping",
+  "event": "You finally decide not to buy something. Then it sells out.",
+  "sourbert": "The market has spoken."
+},
+{
+  "category": "Shopping",
+  "event": "The cashier opens a new lane right after you commit to a long line.",
+  "sourbert": "Timing remains difficult."
+},
+{
+  "category": "Food",
+  "event": "You take the first bite of pizza. All the cheese comes with it.",
+  "sourbert": "Structural failure."
+},
+{
+  "category": "Food",
+  "event": "You save the best bite for last. It falls.",
+  "sourbert": "A bittersweet ending."
+},
+{
+  "category": "Food",
+  "event": "You microwave coffee for the third time.",
+  "sourbert": "The circle of life."
+},
+{
+  "category": "Travel",
+  "event": "Your suitcase arrives. Everyone else's looks exactly like it.",
+  "sourbert": "A guessing game begins."
+},
+{
+  "category": "Travel",
+  "event": "You remember something important the moment the plane takes off.",
+  "sourbert": "Excellent timing."
+},
+{
+  "category": "Pets",
+  "event": "Your pet wakes you up to watch them sleep somewhere else.",
+  "sourbert": "Customer service request fulfilled."
+},
+{
+  "category": "Pets",
+  "event": "You buy a luxury pet bed. The pet prefers the floor.",
+  "sourbert": "A harsh review."
+},
+{
+  "category": "Everyday",
+  "event": "You step onto the escalator and almost trip despite years of experience.",
+  "sourbert": "A fresh challenge."
+},
+{
+  "category": "Everyday",
+  "event": "You look at the time. Two minutes later you look again.",
+  "sourbert": "Trust but verify."
+},
+{
+  "category": "Everyday",
+  "event": "You put your phone down and immediately lose it.",
+  "sourbert": "Rapid deployment."
+},
+{
+  "category": "Everyday",
+  "event": "You finally finish a chore you've been avoiding. It takes five minutes.",
+  "sourbert": "The anticipation was the hard part."
+},
+{
+  "category": "Everyday",
+  "event": "You walk confidently into the wrong room.",
+  "sourbert": "Leadership qualities."
+},
+{
+  "category": "Everyday",
+  "event": "You remember an embarrassing moment from seven years ago while trying to sleep.",
+  "sourbert": "The archives are open."
+},
+{
+  "category": "Everyday",
+  "event": "You carefully carry everything in one trip and drop the last item.",
+  "sourbert": "A near-perfect score."
+},
   {
   "category": "Social",
   "event": "You say 'you too' when the waiter says 'enjoy your meal.'",
