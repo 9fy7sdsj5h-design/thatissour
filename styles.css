@@ -73,6 +73,9 @@ button:hover {
 }
 
 .logo img {
-    width: 280px;
+    width: 320px;
     max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
 }
