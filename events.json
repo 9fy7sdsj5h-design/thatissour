@@ -1,0 +1,23 @@
+[
+  {
+    "event": "You spend ten minutes looking for your glasses. They're on your head.",
+    "sourbert": "An elite hiding place."
+  },
+  {
+    "event": "You wave at someone. They weren't waving at you.",
+    "sourbert": "Confidence exceeded available data."
+  },
+  {
+    "event": "You finally sit down. Then remember something in the car.",
+    "sourbert": "Exercise found a loophole."
+  },
+  {
+    "event": "You unlock your phone to do something important and instantly forget what it was.",
+    "sourbert": "Memory sold separately."
+  },
+  {
+    "event": "You hit Send and immediately find the typo.",
+    "sourbert": "A classic sour vintage."
+  }
+]
+``
